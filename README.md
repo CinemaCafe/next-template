@@ -22,7 +22,7 @@ API_URL="your API end porint url for prod"
 
 ```
 
-and don't for get to add type for those files
+and don't forget to add type for those files
 
 ```typescript
 // env.d.ts
