@@ -1,6 +1,6 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 14 template for building apps with Radix UI and Tailwind CSS.
 
 ## Usage
 
@@ -53,7 +53,7 @@ module.exports = nextConfig
 
 ## Features
 
-- Next.js 13 App Directory
+- Next.js 14 App Directory
 - Radix UI Primitives
 - Tailwind CSS
 - Icons from [Lucide](https://lucide.dev)
